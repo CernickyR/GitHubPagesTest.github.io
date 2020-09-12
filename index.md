@@ -35,3 +35,63 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+# Testing Markdown
+
+
+## Testing Markdown Emphaasis
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+
+
+## Testing Markdown Lists
+
+### Ordered
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+   
+
+### Unordered
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+  
+ 
+## Testing Markdown Task Lists
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+
+## Testing Markdown Tables
+
+First Header | Second Header | Third Added Header Wowie look at me
+------------ | ------------- | -------------
+Content from cell 1 | Content from cell 2 | Test test test
+Content in the first column | Content in the second column | Test2 Test 2 Test 2
+
+
+## Testing Markdown Mentions
+@CernickyR 
+
+
+## Testing Emoji
+
+:bowtie:
+:sweat_smile:
+:yum:
+:hankey:
